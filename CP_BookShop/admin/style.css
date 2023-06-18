@@ -1,0 +1,21 @@
+*{margin:0px; padding:0px;}
+body{background-color:#D2B9D3;}
+#wrapper{width:1000px; margin:0 auto; height:auto;}
+#header{width:1000px; height:150px; float:left; margin-top:10px;}
+#logo{width:100px; height:100px; background-color:#EAC117; float:left;}
+#banner{width:900px; height:100px; background-color:#B2C248; float:left;}
+#menu{width:100%; height:50px; background-color:#C9BE62; float:left;}
+#menu ul{ list-style:none; text-align:center;}
+#menu ul li{ display:inline;  line-height:50px; background-color:#C9BE62; padding:15px;}
+#menu ul li:hover{background-color:#D1D0CE;}
+#menu ul li a{ color:#B048B5; text-decoration:none; font-size:20px;}
+#container{width:100%; height:auto;  float:left;}
+.box{float:left; width:250px; height:300px; background:red; margin:7px; }
+#sidebar{width:200px; height:auto;  float:left;}
+#sidebar ul{list-style:none;}
+#sidebar ul li{ background-color:#B048B5; height:40px; margin-bottom:3px; line-height:40px;padding:7px;}
+#sidebar ul li:hover{background-color:#6960EC;}
+#sidebar ul li a{color:#4EE2EC; font-size:20px; text-decoration:none;}
+#content{width:800px; height:auto;  float:left;  }
+#content p{ text-align:justify; margin:10px;line-height:60px;}
+#footer{width:91%; height:50px; background-color:#B2C248; float:left;text-align:center;}
